@@ -27,7 +27,7 @@ CourseHub is a dynamic platform that offers a diverse range of courses across va
 2. Navigate to the project directory:
 
    ```bash
-   cd CourseHub
+   cd CareerSync
    ```
 
 3. Install dependencies:
@@ -38,7 +38,7 @@ CourseHub is a dynamic platform that offers a diverse range of courses across va
 
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Project Structure
@@ -76,5 +76,5 @@ This project is licensed under the MIT License. Feel free to modify and distribu
 
 For any questions or collaborations, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/meayushsriv)
+- **GitHub**: [meayushsriv](https://github.com/meayushsriv)
 - **Email**: me.ayushsriv@gmail.com
