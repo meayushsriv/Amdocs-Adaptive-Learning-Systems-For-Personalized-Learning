@@ -45,17 +45,16 @@ CourseHub is a dynamic platform that offers a diverse range of courses across va
 
 ```
 CourseHub/
-│-- src/
+│-- frontend/
 │   │-- components/
 │   │   │-- Courses.jsx  # Main course listing component
 │   │   │-- Navbar.jsx   # Navigation bar
+|   |   │-- Others  # Navigation bar
 │   │-- context/
 │   │   │-- AppContext.js  # Context for managing global state
 │   │-- assets/
 │   │   │-- images/  # Contains course-related images
 │   │-- App.js       # Main application file
-│-- public/
-│-- package.json
 │-- README.md
 ```
 
